@@ -5,6 +5,7 @@ Mrs. W, very annoyed by the damage, has to regularly de-gnome her garden by thro
 
 So how does Mrs. W identify the king in a group of gnomes? She knows that gnomes travel in a certain order, and the king, being special, is always the only gnome who does not follow that order.
 
+
 Here are some helpful tips about gnome groups:
 
 There is exactly one king in a group.
